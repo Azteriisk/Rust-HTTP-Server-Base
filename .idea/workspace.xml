@@ -7,7 +7,8 @@
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ad7244d-893f-47cd-981a-d468f48539c5" name="Changes" comment="Quality of life changes">
+    <list default="true" id="5ad7244d-893f-47cd-981a-d468f48539c5" name="Changes" comment="I know I'm not going to remember this later :)">
+      <change afterPath="$PROJECT_DIR$/RustSyntaxBreakdown.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
     </list>
@@ -76,7 +77,7 @@
     "org.rust.first.attach.projects": "true",
     "org.rust.hideNoCargoProjectNotificationsC:/Users/thera/Documents/Code/RustRover/Rust-HTTP-Server-Base/src/main.rs": "true",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "settings.sync"
+    "settings.editor.selected.configurable": "vcs.Subversion"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -111,6 +112,9 @@
     <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\thera\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="5ad7244d-893f-47cd-981a-d468f48539c5" name="Changes" comment="" />
@@ -120,7 +124,7 @@
       <updated>1715149713568</updated>
       <workItem from="1715149715979" duration="82000" />
       <workItem from="1715457372593" duration="8472000" />
-      <workItem from="1715487885427" duration="2915000" />
+      <workItem from="1715487885427" duration="4097000" />
     </task>
     <task id="LOCAL-00001" summary="initial super insecure local http server in rust">
       <option name="closed" value="true" />
@@ -154,7 +158,23 @@
       <option name="project" value="LOCAL" />
       <updated>1715489470262</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="I know I'm not going to remember this later :)">
+      <option name="closed" value="true" />
+      <created>1715491017976</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1715491017976</updated>
+    </task>
+    <task id="LOCAL-00006" summary="I know I'm not going to remember this later :)">
+      <option name="closed" value="true" />
+      <created>1715491025725</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1715491025725</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,6 +184,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="initial super insecure local http server in rust" />
     <MESSAGE value="Quality of life changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Quality of life changes" />
+    <MESSAGE value="I know I'm not going to remember this later :)" />
+    <option name="LAST_COMMIT_MESSAGE" value="I know I'm not going to remember this later :)" />
   </component>
 </project>

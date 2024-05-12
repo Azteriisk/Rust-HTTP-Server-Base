@@ -1,0 +1,47 @@
+use: Imports modules or items from external crates or modules into the current scope.
+std: The standard library, which contains common Rust types, traits, functions, and modules.
+io: Input/output module, which provides types and functions for performing I/O operations.
+BufRead: A trait for buffered input operations, allowing efficient reading of data from a buffer.
+Write: A trait for writing data to a stream.
+path: Module for working with file paths.
+Path: Represents a filesystem path.
+PathBuf: A mutable version of Path that is used for constructing paths.
+env: Module for interacting with the environment, such as accessing environment variables.
+fn: Keyword used to declare a function.
+handle_client: Name of the function that handles client requests.
+mut: Keyword used to make a binding mutable. Mutable means that the value can be changed after it has been bound.
+stream: Name of the variable representing the TCP stream.
+TcpStream: Type representing a TCP stream between a client and server.
+String: A growable, mutable string type.
+let: Keyword used to declare a new variable or binding.
+rdr: Name of the variable representing a buffered reader.
+read_line: Method for reading a line from a buffered reader.
+if: Keyword used to branch the execution of code based on a condition.
+Err: Variant of the Result enum representing an error.
+eprintln: Macro for printing an error message to the standard error stream.
+return: Keyword used to exit a function prematurely and return a value.
+Vec: A dynamically sized array type.
+collect: Method for converting an iterator into a collection.
+trim: Method for removing leading and trailing whitespace from a string.
+len: Method for getting the length of a collection.
+http_version: Name of the variable representing the HTTP version in the request.
+CARGO_MANIFEST_DIR: Environment variable containing the path to the directory containing the Cargo manifest file.
+src_dir: Name of the variable representing the path to the directory containing the source file.
+push: Method for appending a path segment to a PathBuf.
+is_dir: Method for checking if a path refers to a directory.
+file_path: Name of the variable representing the path to the requested file.
+std::fs: Module for file system operations.
+read_to_string: Function for reading the contents of a file into a string.
+Ok: Variant of the Result enum representing a successful result.
+err: Name of the variable representing an error.
+as_bytes: Method for converting a string to a byte slice.
+write_all: Method for writing data to a stream.
+main: The entry point of a Rust program.
+listener: Name of the variable representing the TCP listener.
+bind: Method for binding a TCP listener to a specific address and port.
+incoming: Method for obtaining an iterator over incoming connections.
+match: Keyword used for pattern matching.
+Ok: Variant of the Result enum representing a successful result.
+Err: Variant of the Result enum representing an error.
+spawn: Method for spawning a new thread.
+move: Keyword used to move ownership of variables into a closure.
