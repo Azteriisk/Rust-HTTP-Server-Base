@@ -7,10 +7,9 @@
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ad7244d-893f-47cd-981a-d468f48539c5" name="Changes" comment="initial super insecure local http server in rust">
-      <change afterPath="$PROJECT_DIR$/htdocs/favicon.svg" afterDir="false" />
+    <list default="true" id="5ad7244d-893f-47cd-981a-d468f48539c5" name="Changes" comment="Quality of life changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/htdocs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/htdocs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +120,7 @@
       <updated>1715149713568</updated>
       <workItem from="1715149715979" duration="82000" />
       <workItem from="1715457372593" duration="8472000" />
-      <workItem from="1715487885427" duration="1521000" />
+      <workItem from="1715487885427" duration="2915000" />
     </task>
     <task id="LOCAL-00001" summary="initial super insecure local http server in rust">
       <option name="closed" value="true" />
@@ -147,7 +146,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715488441116</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Quality of life changes">
+      <option name="closed" value="true" />
+      <created>1715489470262</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715489470262</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,6 +163,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="initial super insecure local http server in rust" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial super insecure local http server in rust" />
+    <MESSAGE value="Quality of life changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Quality of life changes" />
   </component>
 </project>
